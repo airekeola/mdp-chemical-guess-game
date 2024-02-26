@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ChemicalGuessGame</string>
+    <string name="guessTextHint">Type here</string>
+    <string name="guessBtnText">Guess</string>
+    <string name="newChemicalTextHint">Type a new chemical name to add</string>
+    <string name="addBtnText">Add Chemical</string>
+    <string name="imageDescription">Chemical Image</string>
+</resources>
